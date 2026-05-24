@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ethical Hacker | Red Teamer | Full Stack Developer
+Ethical Hacker | Red Teamer | Full Stack Developer | Backend Developer
 
 
 ## 🌐 Socials:
